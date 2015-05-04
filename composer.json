@@ -1,5 +1,5 @@
 {
-    "name": "thumbtech/FM-API-PHP-CakePHP3",
+    "name": "thumbtech/fm-api-php-cakephp3",
     "description": "FM PHP API Library for CakePHP 3.0",
     "autoload": {
         "classmap": ["src/"]
