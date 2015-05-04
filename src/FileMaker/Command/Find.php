@@ -3,7 +3,7 @@
 namespace FileMaker\Command;
 
 use FileMaker\FileMaker_Command;
-use Filemaker\Implementation\Command\FileMaker_Command_Find_Implementation;
+use FileMaker\Implementation\Command\FileMaker_Command_Find_Implementation;
 
 /**
  * FileMaker API for PHP

@@ -2,7 +2,7 @@
 // updated for PHP 5.4 / CakePHP 3.0
 namespace FileMaker\Command;
 
-use Filemaker\Implementation\Command\FileMaker_Command_FindRequest_Implementation;
+use FileMaker\Implementation\Command\FileMaker_Command_FindRequest_Implementation;
 
 /**
  * FileMaker API for PHP

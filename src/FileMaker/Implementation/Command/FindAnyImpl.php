@@ -1,9 +1,9 @@
 <?php
 // updated for PHP 5.4 / CakePHP 3.0
-namespace Filemaker\Implementation\Command;
+namespace FileMaker\Implementation\Command;
 
 use FileMaker\FileMaker;
-use Filemaker\Implementation\Command\FileMaker_Command_Find_Implementation;
+use FileMaker\Implementation\Command\FileMaker_Command_Find_Implementation;
 
 // require_once dirname(__FILE__) . '/FindImpl.php';
  class FileMaker_Command_FindAny_Implementation extends FileMaker_Command_Find_Implementation

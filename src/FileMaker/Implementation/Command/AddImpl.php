@@ -1,10 +1,10 @@
 <?php
 // updated for PHP 5.4 / CakePHP 3.0
-namespace Filemaker\Implementation\Command;
+namespace FileMaker\Implementation\Command;
 
 use FileMaker\FileMaker;
 use FileMaker\FileMaker_Error;
-use Filemaker\Implementation\FileMaker_Command_Implementation;
+use FileMaker\Implementation\FileMaker_Command_Implementation;
 
 // require_once dirname(__FILE__) . '/../CommandImpl.php';
  class FileMaker_Command_Add_Implementation extends FileMaker_Command_Implementation
