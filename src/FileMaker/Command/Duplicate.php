@@ -22,8 +22,8 @@ use Filemaker\Implementation\Command\FileMaker_Command_Duplicate_Implementation;
 /**#@+
  * @ignore Include parent and delegate classes.
  */
-require_once dirname(__FILE__) . '/../Command.php';
-require_once dirname(__FILE__) . '/../Implementation/Command/DuplicateImpl.php';
+// require_once dirname(__FILE__) . '/../Command.php';
+// require_once dirname(__FILE__) . '/../Implementation/Command/DuplicateImpl.php';
 /**#@-*/
 
 /**

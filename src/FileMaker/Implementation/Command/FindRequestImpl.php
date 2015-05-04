@@ -2,7 +2,7 @@
 // updated for PHP 5.4 / CakePHP 3.0
 namespace Filemaker\Implementation\Command;
 
- require_once dirname(__FILE__) . '/../CommandImpl.php';
+// require_once dirname(__FILE__) . '/../CommandImpl.php';
  class FileMaker_Command_FindRequest_Implementation
 {
   var $_findCriteria = array();

@@ -6,7 +6,7 @@ use FileMaker\FileMaker;
 use FileMaker\FileMaker_Error;
 use Filemaker\Implementation\FileMaker_Command_Implementation;
 
-  require_once dirname(__FILE__) . '/../CommandImpl.php';
+// require_once dirname(__FILE__) . '/../CommandImpl.php';
  class FileMaker_Command_Delete_Implementation extends FileMaker_Command_Implementation
 {
   function __construct($V0ab34ca9, $Vc6140495, $Va6ec9c02)

@@ -7,8 +7,8 @@ use FileMaker\FileMaker_Result;
 use FileMaker\Error\FileMaker_Error_Validation;
 use FileMaker\Implementation\Parser\FileMaker_Parser_FMResultSet;
 
-  require_once dirname(__FILE__) . '/../Error/Validation.php';
- require_once dirname(__FILE__) . '/../Result.php';
+// require_once dirname(__FILE__) . '/../Error/Validation.php';
+// require_once dirname(__FILE__) . '/../Result.php';
  class FileMaker_Command_Implementation {
 	 var $_fm;
  var $_layout;

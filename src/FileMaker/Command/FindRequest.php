@@ -21,8 +21,8 @@ use Filemaker\Implementation\Command\FileMaker_Command_FindRequest_Implementatio
 /**#@+
  * @ignore Include parent and delegate classes.
  */
-require_once dirname(__FILE__) . '/../Command.php';
-require_once dirname(__FILE__) . '/../Implementation/Command/FindRequestImpl.php';
+// require_once dirname(__FILE__) . '/../Command.php';
+// require_once dirname(__FILE__) . '/../Implementation/Command/FindRequestImpl.php';
 /**#@-*/
 
 /**

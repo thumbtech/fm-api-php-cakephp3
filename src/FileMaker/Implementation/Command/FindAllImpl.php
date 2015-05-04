@@ -5,7 +5,7 @@ namespace Filemaker\Implementation\Command;
 use FileMaker\FileMaker;
 use Filemaker\Implementation\Command\FileMaker_Command_Find_Implementation;
 
-  require_once dirname(__FILE__) . '/FindImpl.php';
+// require_once dirname(__FILE__) . '/FindImpl.php';
  class FileMaker_Command_FindAll_Implementation extends FileMaker_Command_Find_Implementation
 {
   function __construct($V0ab34ca9, $Vc6140495) {

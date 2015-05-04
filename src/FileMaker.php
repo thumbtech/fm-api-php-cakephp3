@@ -20,8 +20,8 @@ use FileMaker\Implementation\FileMaker_Implementation;
 /**#@+
  * @ignore Always load the error class and the implementation delegate.
  */
-require_once dirname(__FILE__) . '/FileMaker/Error.php';
-require_once dirname(__FILE__) . '/FileMaker/Implementation/FileMakerImpl.php';
+// require_once dirname(__FILE__) . '/FileMaker/Error.php';
+// require_once dirname(__FILE__) . '/FileMaker/Implementation/FileMakerImpl.php';
 /**#@-*/
 
 /**#@+

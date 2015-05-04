@@ -6,8 +6,8 @@ use FileMaker\FileMaker;
 use FileMaker\FileMaker_Error;
 use FileMaker\Implementation\Parser\FileMaker_Parser_FMPXMLLAYOUT;
 
-  require_once dirname(__FILE__) . '/../Field.php';
-require_once dirname(__FILE__) . '/Parser/FMPXMLLAYOUT.php';
+// require_once dirname(__FILE__) . '/../Field.php';
+// require_once dirname(__FILE__) . '/Parser/FMPXMLLAYOUT.php';
  class FileMaker_Layout_Implementation
 {
   var $_fm;

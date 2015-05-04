@@ -22,8 +22,8 @@ use Filemaker\Implementation\Command\FileMaker_Command_Delete_Implementation;
 /**#@+
  * @ignore Include parent and delegate classes.
  */
-require_once dirname(__FILE__) . '/../Command.php';
-require_once dirname(__FILE__) . '/../Implementation/Command/DeleteImpl.php';
+// require_once dirname(__FILE__) . '/../Command.php';
+// require_once dirname(__FILE__) . '/../Implementation/Command/DeleteImpl.php';
 /**#@-*/
 
 /**

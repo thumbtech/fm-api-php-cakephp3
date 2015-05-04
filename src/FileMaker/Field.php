@@ -21,7 +21,7 @@ use FileMaker\Implementation\FileMaker_Field_Implementation;
 /**#@+
  * @ignore Load delegate.
  */
-require_once dirname(__FILE__) . '/Implementation/FieldImpl.php';
+// require_once dirname(__FILE__) . '/Implementation/FieldImpl.php';
 /**#@-*/
 
 /**

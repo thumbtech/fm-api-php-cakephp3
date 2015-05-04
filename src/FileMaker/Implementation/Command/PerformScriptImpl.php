@@ -5,7 +5,7 @@ namespace Filemaker\Implementation\Command;
 use Filemaker\FileMaker;
 use Filemaker\Implementation\FileMaker_Command_Implementation;
 
-  require_once dirname(__FILE__) . '/../CommandImpl.php';
+// require_once dirname(__FILE__) . '/../CommandImpl.php';
  class FileMaker_Command_PerformScript_Implementation extends FileMaker_Command_Implementation
 {
   function __construct($V0ab34ca9, $Vc6140495, $V2550889a, $V9b479e5e = null)

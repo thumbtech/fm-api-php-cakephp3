@@ -22,8 +22,8 @@ use Filemaker\Implementation\Command\FileMaker_Command_FindAll_Implementation;
 /**#@+
  * @ignore Include parent and delegate classes.
  */
-require_once dirname(__FILE__) . '/Find.php';
-require_once dirname(__FILE__) . '/../Implementation/Command/FindAllImpl.php';
+// require_once dirname(__FILE__) . '/Find.php';
+// require_once dirname(__FILE__) . '/../Implementation/Command/FindAllImpl.php';
 /**#@-*/
 
 /**

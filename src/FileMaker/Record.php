@@ -21,7 +21,7 @@ use FileMaker\Implementation\FileMaker_Record_Implementation;
 /**#@+
  * @ignore Load delegate.
  */
-require_once dirname(__FILE__) . '/Implementation/RecordImpl.php';
+// require_once dirname(__FILE__) . '/Implementation/RecordImpl.php';
 /**#@-*/
 
 /**

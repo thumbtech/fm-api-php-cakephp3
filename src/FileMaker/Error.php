@@ -24,7 +24,7 @@ use FileMaker\PEAR_Error;
  */
 // @include_once 'PEAR.php';
 // if (!class_exists('PEAR_Error')) {
-    include_once dirname(__FILE__) . '/PEAR.php';
+// include_once dirname(__FILE__) . '/PEAR.php';
 // }
 /**#@-*/
 

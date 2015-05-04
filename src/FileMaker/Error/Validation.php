@@ -21,7 +21,7 @@ use FileMaker\FileMaker_Error;
 /**#@+
  * @ignore Include parent class.
  */
-require_once dirname(__FILE__) . '/../Error.php';
+// require_once dirname(__FILE__) . '/../Error.php';
 /**#@-*/
 
 /**

@@ -21,7 +21,7 @@ use FileMaker\Implementation\FileMaker_RelatedSet_Implementation;
 /**#@+
  * @ignore Include delegate.
  */
-require_once dirname(__FILE__) . '/Implementation/RelatedSetImpl.php';
+// require_once dirname(__FILE__) . '/Implementation/RelatedSetImpl.php';
 /**#@-*/
 
 /**

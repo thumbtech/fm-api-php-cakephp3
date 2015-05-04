@@ -19,7 +19,7 @@ namespace FileMaker;
 /**#@+
  * @ignore Include delegate.
  */
-require_once dirname(__FILE__) . '/Implementation/CommandImpl.php';
+// require_once dirname(__FILE__) . '/Implementation/CommandImpl.php';
 /**#@-*/
 
 /**

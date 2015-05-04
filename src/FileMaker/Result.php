@@ -21,7 +21,7 @@ use FileMaker\Implementation\FileMaker_Result_Implementation;
 /**#@+
  * @ignore Include delegate.
  */
-require_once dirname(__FILE__) . '/Implementation/ResultImpl.php';
+// require_once dirname(__FILE__) . '/Implementation/ResultImpl.php';
 /**#@-*/
 
 /**

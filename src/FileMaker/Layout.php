@@ -21,8 +21,8 @@ use FileMaker\Implementation\FileMaker_Layout_Implementation;
 /**#@+
  * @ignore Load delegate and field classes.
  */
-require_once dirname(__FILE__) . '/Implementation/LayoutImpl.php';
-require_once dirname(__FILE__) . '/Field.php';
+// require_once dirname(__FILE__) . '/Implementation/LayoutImpl.php';
+// require_once dirname(__FILE__) . '/Field.php';
 /**#@-*/
 
 /**

@@ -7,7 +7,7 @@ use FileMaker\FileMaker_Error;
 use FileMaker\Error\FileMaker_Error_Validation;
 use Filemaker\Implementation\FileMaker_Command_Implementation;
 
-  require_once dirname(__FILE__) . '/../CommandImpl.php';
+// require_once dirname(__FILE__) . '/../CommandImpl.php';
  class FileMaker_Command_Edit_Implementation extends FileMaker_Command_Implementation {
 	 var $_fields = array ();
  var $_modificationId = null;

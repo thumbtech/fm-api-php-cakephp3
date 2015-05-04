@@ -9,10 +9,10 @@ use FileMaker\FileMaker_Field;
 use FileMaker\FileMaker_Record;
 use FileMaker\FileMaker_RelatedSet;
 
-  require_once dirname(__FILE__) . '/../../Layout.php';
-require_once dirname(__FILE__) . '/../../RelatedSet.php';
-require_once dirname(__FILE__) . '/../../Record.php';
-require_once dirname(__FILE__) . '/../../Field.php';
+// require_once dirname(__FILE__) . '/../../Layout.php';
+// require_once dirname(__FILE__) . '/../../RelatedSet.php';
+// require_once dirname(__FILE__) . '/../../Record.php';
+// require_once dirname(__FILE__) . '/../../Field.php';
  class FileMaker_Parser_FMResultSet
 {
   var $Vcb5e100e;
