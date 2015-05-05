@@ -15,6 +15,18 @@ I've made extensive use of this library outside of CakePHP and it works well. (H
 
 Sadly, because class constructors are named after classes (instead of __construct) and no namespaces are defined, the API as delivered by FileMaker is a non-starter for use with CakePHP 3.0.
 
-This version only tries to glue things together for use with CakePHP 3.0 and provide support for composer & autoloading of the parent class.
+This version only tries to glue things together for use with CakePHP 3.0 and provide support for composer & autoloading of the *many* classes.
+
+To use, in the composer.json file for your app, include something like:
+
+```
+...
+"require": {
+    ...
+    "thumbtech/fm-api-php-cakephp3": "1.*",
+    ...
+    },
+...
+```
 
 Eventually, I would like to develop a custom CakePHP 3 datasource for FileMaker that will leverage the PHP API!
