@@ -557,10 +557,12 @@ class PEAR
             $ec = 'PEAR_Error';
         }
         if ($skipmsg) {
-            $a = &new $ec($code, $mode, $options, $userinfo);
+            // $a = &new $ec($code, $mode, $options, $userinfo);
+            $a = new $ec($code, $mode, $options, $userinfo); // T_NEW errors with above
             return $a;
         } else {
-            $a = &new $ec($message, $code, $mode, $options, $userinfo);
+            // $a = &new $ec($message, $code, $mode, $options, $userinfo);
+            $a = new $ec($code, $mode, $options, $userinfo); // T_NEW errors with above
             return $a;
         }
     }
